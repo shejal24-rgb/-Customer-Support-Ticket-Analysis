@@ -1,7 +1,7 @@
 # 🎫 Customer Support Ticket Analysis | Python Data Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-Day%2037-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project-🎫-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
 </p>
