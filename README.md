@@ -146,5 +146,5 @@ Aspiring Data Analyst | BCA Student
 </p>
 
 <p align="center">
-  **#Day37 #DataAnalytics #Python #Pandas #NumPy #Matplotlib #Seaborn**
+  **#DataAnalytics #Python #Pandas #NumPy #Matplotlib #Seaborn**
 </p>
